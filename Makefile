@@ -168,6 +168,7 @@ LUVLIBS=${BUILDDIR}/utils.o          \
         ${BUILDDIR}/luv_tls_conn.o   \
         ${BUILDDIR}/luv_pipe.o       \
         ${BUILDDIR}/luv_poll.o       \
+        ${BUILDDIR}/luv_prepare.o       \
         ${BUILDDIR}/luv_tty.o        \
         ${BUILDDIR}/luv_misc.o       \
         ${BUILDDIR}/luv.o            \
